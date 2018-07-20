@@ -20,5 +20,3 @@ function inc(a, b){
 function dec(a, b){
   return n --
 }
-
-
